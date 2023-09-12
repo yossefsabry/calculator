@@ -25,7 +25,7 @@ This is a simple calculator application built using HTML, CSS, and JavaScript. I
 
 ## Demo
 
-You can try out a live demo of the calculator [here](https://example.com).
+You can try out a live demo of the calculator [here](https://yossefsabry.github.io/calculator/).
 
 ### Email:
 ```
